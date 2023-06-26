@@ -1,0 +1,9 @@
+version: 2.0.0
+files:
+  - url: smallpig_2.0.0.exe
+    sha512: aAVKYzR+4hrN+qo42fJxC8zV/PMMScrGSy5FSYQ2OWYWlLV0JhTToILKGMn4vETCylTgS4i9p9D6kSobYUcXCw==
+    size: 72967705
+path: smallpig_2.0.0.exe
+sha512: aAVKYzR+4hrN+qo42fJxC8zV/PMMScrGSy5FSYQ2OWYWlLV0JhTToILKGMn4vETCylTgS4i9p9D6kSobYUcXCw==
+releaseNotes: 版本更新的具体内容
+releaseDate: '2023-06-25T01:36:58.820Z'
